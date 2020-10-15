@@ -1,0 +1,37 @@
+@font-face {
+    font-family: Porcelain;
+    src: url(fonts/Porcelain.ttf);
+}
+
+body {
+    background-color: #eee;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: grey;
+    width: 100%;
+}
+.description {
+    text-align: justify;
+    font-size: 20px;
+    color: #333333;
+    padding-top: 150px;
+}
+.coffee-img {
+    position: relative;
+    border-radius: 10px;
+    float: right;
+}
+
+.title {
+    color: saddlebrown;
+    font-family: Porcelain;
+    font-size: 150px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
